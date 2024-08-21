@@ -1,0 +1,1962 @@
+{
+  "data": {
+    "getEvents": [
+      {
+        "title": {
+          "en": "Governance Rewards Begin",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Enjin Coin (ENJ)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Tokenomics",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "BitMart Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Virtual Versions (VV)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Nomination Pool Deadline",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Enjin Coin (ENJ)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Staking/Farming",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Mainnet Upgrade",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Fetch.ai (FET)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Release",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Migration to ZkSync",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Synapse Network (SNP)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          },
+          {
+            "name": "Integration",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Synapse DAO Update",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Synapse Network (SNP)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Tokenomics",
+            "__typename": "Category"
+          },
+          {
+            "name": "Staking/Farming",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Rewards Claim",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Hypr Network (HYPR)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Vulcan Poker Launch",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Lava (LAVA)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Vulcan Forged (PYR)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Release",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "MEXC Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Greelance ($GRL)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "BitMart Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Nelore Coin (NLC)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "DApps Access Restrictions",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Persistence (XPRT)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "MEXC Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "All In GPT (AIGPT)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "MEXC Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Koinon (KOIN)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "SociaPol Public Sale",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "DAO Maker (DAO)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "MEXC Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Fud the Pug (FUD)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "WEF Davos",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-19T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "General Event (CRYPTO)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "WeSendit (WSI)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Conference",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "InfiX Onboarding End",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "WEMIX (WEMIX)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Cosmos Products Space",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Secret (SCRT)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Stkd SCRT (STKD)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Conference",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Sequencer Community Test",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Metis (METIS)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "GEL x APE X Spaces",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "ApeCoin (APE)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Gelato (GEL)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Team Update",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Community Call",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Origin Dollar (OUSD)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Origin DeFi Governance (OGV)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Origin Ether (OETH)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Origin Protocol (OGN)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Team Update",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "AMA with Gate.io",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Port3 Network (PORT3)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "AMA with KuCoin",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Roobee (ROOBEE)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "X Spaces",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "ZKFair (ZKF)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Team Update",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Devomon IDO",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Enjinstarter (EJS)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "AMA w/ 0xBusiness",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-15T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Arcas (ARCAS)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          },
+          {
+            "name": "Partnership",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "CoinMarketCap Airdrop",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "KRYZA Exchange (KRX)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "KRYZA Network (KRN)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Airdrop/Snapshot",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Sirius Activation",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "MultiversX (EGLD)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Release",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Governance Vote",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Carry (CRE)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Gate.io Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Baby Elon (BABYELON)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Inscriptions on Mainnet",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Metaplex (MPLX)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Release",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Office Hours",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Radiant Capital (RDNT)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Team Update",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "End of V1 LBR Migration",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "eUSD (OLD) (EUSD)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "eUSD (EUSD)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Lybra (LBR)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "PAW Birthday Space",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "PAWSWAP (PAW)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Team Update",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Aelf Swap Portal Cease",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "aelf (ELF)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Discuss Grove Integration",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "e-Radix (EXRD)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Radix (XRD)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Team Update",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "AMA with Bitget",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Cobak (CBK)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Community Meetup",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Verus Coin (VRSC)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Team Update",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "AMA",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "AutoSingle (AUTOS)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Cronos (CRO)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Single Finance (SINGLE)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "VVS Finance (VVS)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "AMA with WhiteBIT",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "LeisureMeta (LM)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "AMA with Gate.io",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Her.AI (HER)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Bad Idea AI AMA",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-17T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Bad Idea AI (BAD)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "B2GC",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-19T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "BNB (BNB)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Bitkub Coin (KUB)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "General Event (CRYPTO)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "EOS (EOS)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Litecoin (LTC)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Polygon (MATIC)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "SingularityNET (AGIX)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "The Sandbox (SAND)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "TRON (TRX)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Velo (VELO)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Conference",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "BitMart Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-17T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Neurashi (NEI)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "WhiteBIT Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-17T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "LeisureMeta (LM)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Chain in Focus #4",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-17T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Astar (ASTR)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "DIA (DIA)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Team Update",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "IIP-23: Marshall DAO Vote",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-17T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Crosschain IOTX (CIOTX)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "IoTeX (IOTX)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Alchemistresses Mint",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-17T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Alchemix (ALCX)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Alchemix ETH (ALETH)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Alchemix USD (ALUSD)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Release",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "AMA",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-17T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "MVL (MVL)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          },
+          {
+            "name": "Team Update",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "DG Roundtable",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-17T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Decentral Games (DG)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Decentral Games Governance (XDG)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Decentral Games ICE (ICE)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Decentral Games (Old) (DG)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Team Update",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Community AMA",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-17T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Swell Ethereum (SWETH)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Deepcoin Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-18T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Beldex (BDX)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "KuCoin Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-18T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Manta Network (MANTA)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Lelantus Spark Activation",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-18T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Firo (FIRO)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "OnTrac(k) Live Show",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-18T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "OriginTrail (TRAC)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          },
+          {
+            "name": "Team Update",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Society Open Call",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-18T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Toncoin (TON)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          },
+          {
+            "name": "Team Update",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Community Town Hall",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-18T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Klaytn (KLAY)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Team Update",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "BBANK-FI Token Swap Ends",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-18T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "blockbank (BBANK)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Fideum (FI)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Fork/Swap",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "AIP-104 Vote",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-18T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Alchemix (ALCX)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Alchemix ETH (ALETH)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Alchemix USD (ALUSD)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Community Call #60",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-25T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Sovryn (SOV)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          },
+          {
+            "name": "Team Update",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Mainnet Completion",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-19T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Shido (SHIDO)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Release",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Treasury Grant UI",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-31T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Kyber Network Crystal Legacy (KNCL)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Kyber Network Crystal (KNC)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Release",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "10SET x IVPAY AMA",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-19T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "ivendPay (IVPAY)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Tenset (10SET)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "KRX Public Sale",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-20T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "KRYZA Exchange (KRX)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "KRYZA Network (KRN)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Community Vote",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-21T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "KRYZA Exchange (KRX)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "KRYZA Network (KRN)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "WORLD Vesting Change",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-21T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "WhiteBIT Coin (WBT)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Tokenomics",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Utility Review",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-21T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Nakamoto Games (NAKA)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Team Update",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Testnet Extension",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-22T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Mina Protocol (MINA)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "ACT Staking",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-22T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Acet (ACT)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Staking/Farming",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "AOC Migration Snapshot",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-22T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Axie Infinity (AXS)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Smooth Love Potion (SLP)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Airdrop/Snapshot",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Bithumb Delisting",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-22T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Everscale (EVER)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Mega Burn",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-22T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "SaitaChain Coin (STC)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Tokenomics",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "IvendPay TPL Launchpad",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-22T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Tenset (10SET)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "StormWarfare IGO",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-22T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Seedify.fund (SFUND)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Seedify NFT Space (SNFTS)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "CodeX IDO",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-22T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Enjinstarter (EJS)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "BRB Winners Spotlight",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Push Protocol (PUSH)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Other",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "BitMart Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "TOKA (TOKA)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "Community Call",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Overnight.fi DAI+ (DAI+)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Overnight Finance (OVN)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Overnight.fi USD+ (USD+)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Overnight.fi USDT+ (USDT+)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "AMA with KuCoin",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Port3 Network (PORT3)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "ARB x FCTR AMA",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Arbitrum (ARB)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "FactorDAO (FCTR)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "X Spaces",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "1inch (1INCH)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "DappRadar (RADAR)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Klaytn (KLAY)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "AMA",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "MEXC Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Drago (DRAGO)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "CITEX Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "BlocX [OLD] (BLX)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "BlocX (BLX)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "MEXC Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Canxium (CAU)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "MEXC Kickstarter Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "StorageChain (WSTOR)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "CITEX Listing",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-16T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Seed.Photo (SEED)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Exchange",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      },
+      {
+        "title": {
+          "en": "S7 Balancing Update",
+          "__typename": "Title"
+        },
+        "date_event": "2024-01-17T00:00:00.000Z",
+        "coins": [
+          {
+            "fullname": "Axie Infinity (AXS)",
+            "__typename": "Coin"
+          },
+          {
+            "fullname": "Smooth Love Potion (SLP)",
+            "__typename": "Coin"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Release",
+            "__typename": "Category"
+          }
+        ],
+        "__typename": "Events"
+      }
+    ]
+  }
+}
